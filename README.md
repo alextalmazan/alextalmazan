@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alextalmazan
-- 👀 I’m interested in JavaScript, TypeScript, React.js
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in React.js, TypeScript, Cypress and Jest
+- 🌱 I’m currently learning Remix
+
 
 <!---
 alextalmazan/alextalmazan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
