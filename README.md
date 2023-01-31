@@ -1,7 +1,8 @@
                                                           👋Hello there
-                 I am a mid-level front end engineer based in London. I love building project using React and TypeScript.
-                        I am really passionate about testing my code so I relly heavily on Cypress and Vitest
-                                         👀 I’m interested in anything to do with front end but particularly TypeScript
+                                                          
+                🖋️ I am a mid-level front end engineer based in London. I love building project using React and TypeScript.
+                       🔥 I am really passionate about testing my code so I relly heavily on Cypress and Vitest
+                                      👀 I’m interested in anything to do with front end but particularly TypeScript
                                                      🌱 I’m currently learning Astro
 
 
