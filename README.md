@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @alextalmazan
-- 👀 I’m interested in React.js, TypeScript, Cypress and Jest
-- 🌱 I’m currently learning Remix
+                                                          👋Hello there
+                 I am a mid-level front end engineer based in London. I love building project using React and TypeScript.
+                        I am really passionate about testing my code so I relly heavily on Cypress and Vitest
+                                         👀 I’m interested in anything to do with front end but particularly TypeScript
+                                                     🌱 I’m currently learning Astro
 
 
 <!---
